@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/hero/hero.jpg" width="90%" alt="Satyander Kaushik — workspace"/>
+<img src="assets/hero/hero.jpg" width="100%" alt="Satyander Kaushik — workspace"/>
 
 <br/>
 
