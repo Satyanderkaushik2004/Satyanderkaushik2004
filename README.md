@@ -109,36 +109,26 @@ class SatyanderKaushik:
 
 <br/>
 
-## About Me
- 
-<table>
-<tr>
-<td width="60%" valign="top">
-I build at the intersection of **multimodal AI, computer vision, LLM systems, and
-secure AI research** — an AI & Data Science undergraduate at CGC University, Mohali.
- 
-I'm an IEEE-published researcher with two patent applications filed in India, and I
-founded a 200+ member university innovation community that has run a 300+ participant
-hackathon and hosted guest lectures on quantum computing for 100+ students.
- 
-> I don't just study AI — I build systems that turn research ideas into working
-> software, then write up what I learned.
- 
-</td>
-<td width="40%" valign="top">
-<table>
-<tr>
-<td align="center" width="50%">🏆<br/><b>1</b><br/><sub>IEEE Publication</sub></td>
-<td align="center" width="50%">📄<br/><b>6</b><br/><sub>Research Papers</sub></td>
-</tr>
-<tr>
-<td align="center" width="50%">📜<br/><b>2</b><br/><sub>Patents Filed</sub></td>
-<td align="center" width="50%">👥<br/><b>200+</b><br/><sub>Community Led</sub></td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
+## 🧠 About Me
+
+I build at the intersection of **multimodal AI, computer vision, LLM systems, and secure AI research** — an AI & Data Science undergraduate at CGC University, Mohali.
+
+I'm an IEEE-published researcher with two patent applications filed in India, and I founded a 200+ member university innovation community that has run a 300+ participant hackathon and hosted guest lectures on quantum computing for 100+ students.
+
+<div align="center">
+<img src="assets/stat-cards.svg" width="100%" alt="1 IEEE Publication · 6 Research Papers · 2 Patents Filed · 200+ Community Led"/>
+</div>
+
+<br/>
+
+```bash
+$ cat philosophy.txt
+
+I don't just study AI — I build systems that turn
+research ideas into working software, then write
+up what I learned.
+```
+
 <br/>
 
 ## Tech Stack
