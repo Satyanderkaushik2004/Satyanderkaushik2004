@@ -16,9 +16,8 @@
 *"Turning ideas into real-world impact."*
 
 </div>
-
 <div align="center">
-<img src="assets/builders-on-table.svg" width="70%" alt="tiny builders at work"/>
+ <img src="./assets/analytics-pulse.svg" width="60%" />
 </div>
 <table>
 <tr>
@@ -293,15 +292,15 @@ Security-focused file sharing — encrypted workflows and QR-based sharing links
 <br/>
 
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyanderkaushik2004&theme=dark&background=05070B&stroke=1E293B&ring=8B5CF6&fire=3B82F6&currStreakLabel=22D3EE&border=1E293B" width="70%" />
+<img src="./assets/analytics-pulse.svg" width="60%" />
 
 <br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyanderkaushik2004&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=F472B6&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&card_width=600" width="75%" />
 
 </div>
 
