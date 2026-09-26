@@ -280,7 +280,7 @@ Security-focused file sharing — encrypted workflows and QR-based sharing links
 
 <br/>
 
-## Research & Publications
+## 📚 Research & Publications
 
 | Status | Work | Venue |
 |:---|:---|:---|
@@ -292,22 +292,23 @@ Security-focused file sharing — encrypted workflows and QR-based sharing links
 | ![Working Paper](https://img.shields.io/badge/WORKING%20PAPER-3B82F6?style=flat-square&labelColor=05070B) | [**CollabCast** — Unified Digital Collaboration Platform](https://drive.google.com/file/d/1FjV31-96MJ3p_46xyBdspr_ABKC6Utlu/view?usp=drive_link) | — |
 | ![In Prep](https://img.shields.io/badge/IN%20PREP-64748B?style=flat-square&labelColor=05070B) | [**NeuroMesh** — AI-Driven Brain-to-Robot Interface](https://drive.google.com/file/d/1F6fUWqj5LW7ePeqd2BAtaiiEjruTVa0R/view?usp=sharing) | — |
 
-**Karana** fuses visual, audio, and sensor streams for real-time autonomous threat
-classification, secured with CRYSTALS-Kyber post-quantum cryptography and optimized
-for low-latency edge inference. **Sahay AI** performs performance-aware dynamic
-routing across multiple LLMs with automatic failover. **QTrialNet** reformulates
-hypothesis evaluation as a Grover-inspired quantum search, achieving theoretical
-O(√N/M) complexity.
-
-**Patents filed (India):**
-- A Quantum-Secure Edge-Based Multimodal AI Surveillance System — App. No. 202511074784
-- A Stateless Encrypted BLE Broadcast System — App. No. 202511087408
+> **Karana** fuses visual, audio, and sensor streams for real-time autonomous threat classification, secured with CRYSTALS-Kyber post-quantum cryptography and optimized for low-latency edge inference.
+> **Sahay AI** performs performance-aware dynamic routing across multiple LLMs with automatic failover.
+> **QTrialNet** reformulates hypothesis evaluation as a Grover-inspired quantum search, achieving theoretical O(√N/M) complexity.
 
 <br/>
 
+<img src="assets/accent-purple.svg" width="100%"/>
 
+**🔐 Patents Filed (India)**
+
+| Application No. | Title |
+|:---|:---|
+| `202511074784` | A Quantum-Secure Edge-Based Multimodal AI Surveillance System |
+| `202511087408` | A Stateless Encrypted BLE Broadcast System |
 
 <br/>
+
 
 ## GitHub Analytics
 
