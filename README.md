@@ -17,8 +17,9 @@
 
 </div>
 
-<br/>
-
+<div align="center">
+<img src="assets/builders-on-table.svg" width="70%" alt="tiny builders at work"/>
+</div>
 <table>
 <tr>
 <td width="30%" valign="top">
