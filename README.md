@@ -86,7 +86,7 @@ class SatyanderKaushik:
   <img alt="github contribution snake animation" width="100%" src="https://raw.githubusercontent.com/Satyanderkaushik2004/Satyanderkaushik2004/output/github-contribution-grid-snake.svg">
 </picture>
 <br/>
-<sub>Contribution snake · generated daily by <code>.github/workflows/snake.yml</code> — see <b>SETUP.md</b> to enable it</sub>
+
 </div>
 
 <br/>
