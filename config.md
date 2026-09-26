@@ -7,6 +7,7 @@ values currently are, so you can find-and-replace them quickly in one pass.
 | Key | Current value | Notes |
 |---|---|---|
 | GitHub username | `Satyanderkaushik2004` | Used in every stats/trophy/snake URL and avatar link |
+| Self-hosted stats domain | `github-readme-stats-6qbrm7jrr-krish-691f.vercel.app` | Your own deploy of github-readme-stats on Vercel — used in the "GitHub Analytics" stats + top-languages cards instead of the shared public demo, so they don't break under rate limits |
 | Email | `satyanderkaushik2004@gmail.com` | From your resume |
 | LinkedIn | `linkedin.com/in/satyanderkaushik` | |
 | Portfolio | `https://vyomedu.in/` | VYOM's live site, used as the portfolio link — swap for a personal site if you build one |
