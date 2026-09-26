@@ -9,41 +9,41 @@
 
   <rect width="700" height="160" rx="12" fill="#0D1117"/>
 
-  <!-- animated bars -->
+  <!-- animated bars (centered) -->
   <g>
-    <rect x="30"  y="100" width="24" height="40" rx="4" fill="url(#barGrad)">
+    <rect x="178" y="100" width="24" height="40" rx="4" fill="url(#barGrad)">
       <animate attributeName="height" values="40;85;40" dur="2.2s" repeatCount="indefinite"/>
       <animate attributeName="y" values="100;55;100" dur="2.2s" repeatCount="indefinite"/>
     </rect>
-    <rect x="70"  y="70"  width="24" height="70" rx="4" fill="url(#barGrad)">
+    <rect x="218" y="70"  width="24" height="70" rx="4" fill="url(#barGrad)">
       <animate attributeName="height" values="70;115;70" dur="2.7s" repeatCount="indefinite"/>
       <animate attributeName="y" values="70;25;70" dur="2.7s" repeatCount="indefinite"/>
     </rect>
-    <rect x="110" y="90"  width="24" height="50" rx="4" fill="url(#barGrad)">
+    <rect x="258" y="90"  width="24" height="50" rx="4" fill="url(#barGrad)">
       <animate attributeName="height" values="50;95;50" dur="1.9s" repeatCount="indefinite"/>
       <animate attributeName="y" values="90;45;90" dur="1.9s" repeatCount="indefinite"/>
     </rect>
-    <rect x="150" y="55"  width="24" height="85" rx="4" fill="url(#barGrad)">
+    <rect x="298" y="55"  width="24" height="85" rx="4" fill="url(#barGrad)">
       <animate attributeName="height" values="85;125;85" dur="3.2s" repeatCount="indefinite"/>
       <animate attributeName="y" values="55;15;55" dur="3.2s" repeatCount="indefinite"/>
     </rect>
-    <rect x="190" y="80"  width="24" height="60" rx="4" fill="url(#barGrad)">
+    <rect x="338" y="80"  width="24" height="60" rx="4" fill="url(#barGrad)">
       <animate attributeName="height" values="60;100;60" dur="2.5s" repeatCount="indefinite"/>
       <animate attributeName="y" values="80;40;80" dur="2.5s" repeatCount="indefinite"/>
     </rect>
-    <rect x="230" y="65"  width="24" height="75" rx="4" fill="url(#barGrad)">
+    <rect x="378" y="65"  width="24" height="75" rx="4" fill="url(#barGrad)">
       <animate attributeName="height" values="75;118;75" dur="2.9s" repeatCount="indefinite"/>
       <animate attributeName="y" values="65;22;65" dur="2.9s" repeatCount="indefinite"/>
     </rect>
-    <rect x="270" y="95"  width="24" height="45" rx="4" fill="url(#barGrad)">
+    <rect x="418" y="95"  width="24" height="45" rx="4" fill="url(#barGrad)">
       <animate attributeName="height" values="45;90;45" dur="2.1s" repeatCount="indefinite"/>
       <animate attributeName="y" values="95;50;95" dur="2.1s" repeatCount="indefinite"/>
     </rect>
-    <rect x="310" y="60"  width="24" height="80" rx="4" fill="url(#barGrad)">
+    <rect x="458" y="60"  width="24" height="80" rx="4" fill="url(#barGrad)">
       <animate attributeName="height" values="80;122;80" dur="3.0s" repeatCount="indefinite"/>
       <animate attributeName="y" values="60;18;60" dur="3.0s" repeatCount="indefinite"/>
     </rect>
-    <rect x="350" y="85"  width="24" height="55" rx="4" fill="url(#barGrad)">
+    <rect x="498" y="85"  width="24" height="55" rx="4" fill="url(#barGrad)">
       <animate attributeName="height" values="55;98;55" dur="2.4s" repeatCount="indefinite"/>
       <animate attributeName="y" values="85;42;85" dur="2.4s" repeatCount="indefinite"/>
     </rect>
