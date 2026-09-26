@@ -7,15 +7,16 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=SATYANDER+KAUSHIK;AI+%26+DATA+SCIENCE+%C2%B7+BUILDER;IEEE-PUBLISHED+RESEARCHER" alt="Typing SVG" />
 
-<p>
-  <img src="https://img.shields.io/badge/AI%20%26%20DATA%20SCIENCE-05070B?style=for-the-badge&labelColor=05070B&color=3B82F6" />
-  <img src="https://img.shields.io/badge/BUILDER-05070B?style=for-the-badge&labelColor=05070B&color=8B5CF6" />
-  <img src="https://img.shields.io/badge/RESEARCHER-05070B?style=for-the-badge&labelColor=05070B&color=22D3EE" />
-  <img src="https://img.shields.io/badge/COMMUNITY%20LEADER-05070B?style=for-the-badge&labelColor=05070B&color=3B82F6" />
-</p>
+<br/>
 
-*"Turning ideas into real-world impact."*
+<img src="https://img.shields.io/badge/AI_%26_DATA_SCIENCE-3B82F6?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=05070B" />
+<img src="https://img.shields.io/badge/BUILDER-8B5CF6?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=05070B" />
+<img src="https://img.shields.io/badge/RESEARCHER-22D3EE?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=05070B" />
+<img src="https://img.shields.io/badge/COMMUNITY_LEADER-F59E0B?style=for-the-badge&logo=discourse&logoColor=white&labelColor=05070B" />
 
+<br/><br/>
+
+<i>"Turning ideas into real-world impact."</i>
 </div>
 <div align="center">
  <img src="./assets/analytics-pulse.svg" width="60%" />
