@@ -86,31 +86,44 @@ class SatyanderKaushik:
   <img alt="github contribution snake animation" width="100%" src="https://raw.githubusercontent.com/Satyanderkaushik2004/Satyanderkaushik2004/output/github-contribution-grid-snake.svg">
 </picture>
 <br/>
-
+<sub>Contribution snake · generated daily by <code>.github/workflows/snake.yml</code> — see <b>SETUP.md</b> to enable it</sub>
 </div>
 
 <br/>
 
 ## About Me
 
-I'm an AI & Data Science undergraduate at CGC University, Mohali, building at the
-intersection of **multimodal AI, computer vision, LLM systems, and secure AI research**.
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I build at the intersection of **multimodal AI, computer vision, LLM systems, and
+secure AI research** — an AI & Data Science undergraduate at CGC University, Mohali.
+
 I'm an IEEE-published researcher with two patent applications filed in India, and I
 founded a 200+ member university innovation community that has run a 300+ participant
 hackathon and hosted guest lectures on quantum computing for 100+ students.
 
-I don't just study AI — I build systems that turn research ideas into working software,
-then write up what I learned.
+> I don't just study AI — I build systems that turn research ideas into working
+> software, then write up what I learned.
 
-<div align="center">
+</td>
+<td width="40%" valign="top">
 
-<img src="https://img.shields.io/badge/IEEE%20Publication-1-8B5CF6?style=for-the-badge&labelColor=05070B"/>
-<img src="https://img.shields.io/badge/Research%20Papers-6-3B82F6?style=for-the-badge&labelColor=05070B"/>
-<img src="https://img.shields.io/badge/Patents%20Filed-2-22D3EE?style=for-the-badge&labelColor=05070B"/>
-<img src="https://img.shields.io/badge/Community%20Led-200%2B-3B82F6?style=for-the-badge&labelColor=05070B"/>
-<img src="https://img.shields.io/badge/Hackathon%20Run-300%2B%20Participants-8B5CF6?style=for-the-badge&labelColor=05070B"/>
+<table>
+<tr>
+<td align="center" width="50%">🏆<br/><b>1</b><br/><sub>IEEE Publication</sub></td>
+<td align="center" width="50%">📄<br/><b>6</b><br/><sub>Research Papers</sub></td>
+</tr>
+<tr>
+<td align="center" width="50%">📜<br/><b>2</b><br/><sub>Patents Filed</sub></td>
+<td align="center" width="50%">👥<br/><b>200+</b><br/><sub>Community Led</sub></td>
+</tr>
+</table>
 
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -281,8 +294,8 @@ O(√N/M) complexity.
 ## GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Satyanderkaushik2004&show_icons=true&theme=dark&bg_color=05070B&title_color=8B5CF6&icon_color=3B82F6&text_color=E5E7EB&border_color=1E293B&hide_border=false" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyanderkaushik2004&layout=compact&theme=dark&bg_color=05070B&title_color=8B5CF6&text_color=E5E7EB&border_color=1E293B&hide_border=false" width="35%" />
+<img src="https://github-readme-stats-6qbrm7jrr-krish-691f.vercel.app/api?username=Satyanderkaushik2004&show_icons=true&theme=dark&bg_color=05070B&title_color=8B5CF6&icon_color=3B82F6&text_color=E5E7EB&border_color=1E293B&hide_border=false&cache_seconds=86400" width="49%" />
+<img src="https://github-readme-stats-6qbrm7jrr-krish-691f.vercel.app/api/top-langs/?username=Satyanderkaushik2004&layout=compact&theme=dark&bg_color=05070B&title_color=8B5CF6&text_color=E5E7EB&border_color=1E293B&hide_border=false&cache_seconds=86400" width="35%" />
 
 <br/>
 
@@ -295,6 +308,12 @@ O(√N/M) complexity.
 
 > Stats are generated live from GitHub — nothing here is hard-coded. Replace
 > `Satyanderkaushik2004` with your handle in every URL above if you fork this (see `config.md`).
+>
+> The stats and top-languages cards are now served from a **self-hosted copy**
+> (`github-readme-stats-6qbrm7jrr-krish-691f.vercel.app`), so they run on your
+> own GitHub API quota instead of the shared public demo. The trophy card
+> still uses the shared public server — if it shows a broken image, see
+> **SETUP.md** to self-host that one too.
 
 <br/>
 
