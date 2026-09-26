@@ -338,7 +338,7 @@ Security-focused file sharing — encrypted workflows and QR-based sharing links
 **Certifications:** EC-Council CEH v13 · CompTIA Data+ · Government-certified C/C++ and Java/JavaScript programming · 100 Days of Python · Linux Bootcamp
 <br/>
 
-## Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -349,15 +349,10 @@ Security-focused file sharing — encrypted workflows and QR-based sharing links
 
 *Open to collaboration · internships · research · cool ideas*
 
-</div>
-
 <br/>
 
-<div align="center">
-<img src="assets/backgrounds/mountain-night.jpg" width="100%" alt="Keep building"/>
+<img src="assets/terminal-loop.svg" width="100%" alt="Build. Learn. Share. Repeat."/>
 
-<br/><br/>
-
-**Build. Learn. Share. Grow.**
+<sub>[↑ Back to top](#satyander-kaushik)</sub>
 
 </div>
