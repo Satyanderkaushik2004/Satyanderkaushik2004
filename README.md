@@ -80,6 +80,15 @@ class SatyanderKaushik:
 </tr>
 </table>
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Satyanderkaushik2004/Satyanderkaushik2004/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution snake animation" width="100%" src="https://raw.githubusercontent.com/Satyanderkaushik2004/Satyanderkaushik2004/output/github-contribution-grid-snake.svg">
+</picture>
+<br/>
+<sub>Contribution snake · generated daily by <code>.github/workflows/snake.yml</code> — see <b>SETUP.md</b> to enable it</sub>
+</div>
+
 <br/>
 
 ## About Me
@@ -100,49 +109,6 @@ then write up what I learned.
 <img src="https://img.shields.io/badge/Patents%20Filed-2-22D3EE?style=for-the-badge&labelColor=05070B"/>
 <img src="https://img.shields.io/badge/Community%20Led-200%2B-3B82F6?style=for-the-badge&labelColor=05070B"/>
 <img src="https://img.shields.io/badge/Hackathon%20Run-300%2B%20Participants-8B5CF6?style=for-the-badge&labelColor=05070B"/>
-
-</div>
-
-<br/>
-
-## Tech Stack
-
-<div align="center">
-
-**Core Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js" alt="Python, C++, Java, JavaScript"/>
-
-<br/>
-
-**AI · Machine Learning · Computer Vision**
-<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="PyTorch, TensorFlow, OpenCV"/>
-<br/>
-
-![LangChain](https://img.shields.io/badge/LangChain-05070B?style=flat-square&color=8B5CF6)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-05070B?style=flat-square&color=3B82F6)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-05070B?style=flat-square&color=22D3EE)
-![ViT](https://img.shields.io/badge/ViT-05070B?style=flat-square&color=8B5CF6)
-![Swin](https://img.shields.io/badge/Swin-05070B?style=flat-square&color=3B82F6)
-![DINO](https://img.shields.io/badge/DINO-05070B?style=flat-square&color=22D3EE)
-![AdaViT](https://img.shields.io/badge/AdaViT-05070B?style=flat-square&color=8B5CF6)
-
-<br/>
-
-**Cloud · MLOps · Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,firebase,docker,linux,git,github" alt="AWS, Firebase, Docker, Linux, Git, GitHub"/>
-
-<br/>
-
-**Security · Systems Research**
-<br/>
-![Post-Quantum Crypto](https://img.shields.io/badge/Post--Quantum%20Cryptography-05070B?style=flat-square&color=3B82F6)
-![SIEM](https://img.shields.io/badge/SIEM-05070B?style=flat-square&color=8B5CF6)
-![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-05070B?style=flat-square&color=22D3EE)
-![IoT Security](https://img.shields.io/badge/IoT%20Security-05070B?style=flat-square&color=3B82F6)
-![Federated Learning](https://img.shields.io/badge/Federated%20Learning-05070B?style=flat-square&color=8B5CF6)
 
 </div>
 
@@ -268,6 +234,50 @@ O(√N/M) complexity.
 - A Stateless Encrypted BLE Broadcast System — App. No. 202511087408
 
 <br/>
+
+## Tech Stack
+
+<div align="center">
+
+**Core Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js" alt="Python, C++, Java, JavaScript"/>
+
+<br/>
+
+**AI · Machine Learning · Computer Vision**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="PyTorch, TensorFlow, OpenCV"/>
+<br/>
+
+![LangChain](https://img.shields.io/badge/LangChain-05070B?style=flat-square&color=8B5CF6)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-05070B?style=flat-square&color=3B82F6)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-05070B?style=flat-square&color=22D3EE)
+![ViT](https://img.shields.io/badge/ViT-05070B?style=flat-square&color=8B5CF6)
+![Swin](https://img.shields.io/badge/Swin-05070B?style=flat-square&color=3B82F6)
+![DINO](https://img.shields.io/badge/DINO-05070B?style=flat-square&color=22D3EE)
+![AdaViT](https://img.shields.io/badge/AdaViT-05070B?style=flat-square&color=8B5CF6)
+
+<br/>
+
+**Cloud · MLOps · Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,firebase,docker,linux,git,github" alt="AWS, Firebase, Docker, Linux, Git, GitHub"/>
+
+<br/>
+
+**Security · Systems Research**
+<br/>
+![Post-Quantum Crypto](https://img.shields.io/badge/Post--Quantum%20Cryptography-05070B?style=flat-square&color=3B82F6)
+![SIEM](https://img.shields.io/badge/SIEM-05070B?style=flat-square&color=8B5CF6)
+![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-05070B?style=flat-square&color=22D3EE)
+![IoT Security](https://img.shields.io/badge/IoT%20Security-05070B?style=flat-square&color=3B82F6)
+![Federated Learning](https://img.shields.io/badge/Federated%20Learning-05070B?style=flat-square&color=8B5CF6)
+
+</div>
+
+<br/>
+
 ## GitHub Analytics
 
 <div align="center">
@@ -306,20 +316,6 @@ research templates) via Amazon KDP.
 
 **Certifications:** EC-Council CEH v13 · CompTIA Data+ · Government-certified
 C/C++ and Java/JavaScript programming · 100 Days of Python · Linux Bootcamp
-
-<br/>
-
-## Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Satyanderkaushik2004/Satyanderkaushik2004/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Satyanderkaushik2004/Satyanderkaushik2004/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
-
-> Generated automatically by `.github/workflows/snake.yml` on a daily schedule —
-> see **SETUP.md** to enable it after you push this repo.
 
 <br/>
 
