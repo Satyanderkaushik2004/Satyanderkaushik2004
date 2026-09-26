@@ -1,264 +1,338 @@
-<!-- GitHub Profile README for Satyander Kaushik -->
+<div align="center">
 
-<h1 align="center">
-  Hi there, I'm <span style="color:#FFA500">Satyander Kaushik</span>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<img src="assets/hero/hero.jpg" width="100%" alt="Satyander Kaushik — workspace"/>
 
-<p align="center">
-  <b>AI/DS Engineer | IEEE-Published Researcher | Tech Innovator</b><br>
-  <i>Building practical AI systems across Multimodal AI, Computer Vision, LLMs & Secure Computing</i>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=SATYANDER+KAUSHIK;AI+%26+DATA+SCIENCE+%C2%B7+BUILDER;IEEE-PUBLISHED+RESEARCHER" alt="Typing SVG" />
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20%26%20DATA%20SCIENCE-05070B?style=for-the-badge&labelColor=05070B&color=3B82F6" />
+  <img src="https://img.shields.io/badge/BUILDER-05070B?style=for-the-badge&labelColor=05070B&color=8B5CF6" />
+  <img src="https://img.shields.io/badge/RESEARCHER-05070B?style=for-the-badge&labelColor=05070B&color=22D3EE" />
+  <img src="https://img.shields.io/badge/COMMUNITY%20LEADER-05070B?style=for-the-badge&labelColor=05070B&color=3B82F6" />
 </p>
 
----
+*"Turning ideas into real-world impact."*
 
-### 👨‍💻 About Me
+</div>
 
-<ul>
-  <li>🎓 Pursuing <b>B.Tech in Artificial Intelligence & Data Science</b> at CGC University, Mohali</li>
-  <li>💻 Diploma in <b>Computer Science & Engineering</b></li>
-  <li>🔬 IEEE-published undergraduate researcher working across <b>AI, Computer Vision, LLMs & Secure AI</b></li>
-  <li>🧠 Exploring <b>Multimodal AI, Federated Learning, AI Agents, Post-Quantum Cryptography & Distributed Systems</b></li>
-  <li>🚀 Building practical AI systems that turn research ideas into working solutions</li>
-  <li>📚 Author of technical books and research/book chapters</li>
-  <li>💡 Filed <b>2 patent applications</b> in AI surveillance and secure communications</li>
-  <li>🏆 Founder & Head of a university innovation community with <b>200+ active members</b></li>
-</ul>
+<br/>
 
----
+<table>
+<tr>
+<td width="30%" valign="top">
 
-### 🛠️ Tech Stack
+<div align="center">
+<img src="https://github.com/Satyanderkaushik2004.png" width="140" style="border-radius:50%" alt="Satyander Kaushik"/>
 
-<p align="center">
+### SATYANDER KAUSHIK
+**@Satyanderkaushik2004**
 
-  <!-- Programming -->
+AI & Data Science Student <br/>
+IEEE‑Published Researcher <br/>
+Founder — ICA Innovation Club
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+📍 Chandigarh, India <br/>
+📧 [satyanderkaushik2004@gmail.com](mailto:satyanderkaushik2004@gmail.com)
 
-  <!-- AI / ML -->
+**[→ Let's build something](https://linkedin.com/in/satyanderkaushik)**
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" title="Scikit-learn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" title="OpenCV" />
+<br/>
 
-  <!-- Data Science -->
+[![GitHub](https://img.shields.io/badge/GitHub-05070B?style=for-the-badge&logo=github&logoColor=8B5CF6)](https://github.com/Satyanderkaushik2004)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-05070B?style=for-the-badge&logo=linkedin&logoColor=3B82F6)](https://linkedin.com/in/satyanderkaushik)
+[![Portfolio](https://img.shields.io/badge/Portfolio-05070B?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://vyomedu.in/)
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas" />
+</div>
 
-  <!-- Web Development -->
+</td>
+<td width="70%" valign="top">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" title="Sass" />
+```python
+class SatyanderKaushik:
 
-  <!-- Cloud / DevOps -->
+    name        = "Satyander Kaushik"
+    field       = "AI & Data Science"
+    university  = "CGC University, Mohali"
+    roles       = ["Builder", "Researcher", "Community Leader"]
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" title="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" title="Nginx" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
+    currently_building = [
+        "VYOM",     # AI classroom intelligence — federated learning
+        "KAIROS",   # AI coding workspace
+        "BitVault", # secure, encrypted file sharing
+    ]
 
-  <!-- Databases -->
+    published = [
+        "Karana — Post-Quantum Secure AI Surveillance System (IEEE, 2025)",
+    ]
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" title="Oracle" />
+    patents_filed = 2       # AI surveillance · secure BLE communication
+    community_led = "200+ member university innovation club"
 
-  <!-- Systems -->
+    philosophy = "Build. Learn. Share. Repeat."
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" title="Ubuntu" />
+    def today(self):
+        return "shipping, writing papers, or both at 2 AM."
+```
 
-  <!-- Tools -->
+</td>
+</tr>
+</table>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="40" title="Electron" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="Android" />
+<br/>
 
-</p>
+## About Me
 
-<p align="center">
+I'm an AI & Data Science undergraduate at CGC University, Mohali, building at the
+intersection of **multimodal AI, computer vision, LLM systems, and secure AI research**.
+I'm an IEEE-published researcher with two patent applications filed in India, and I
+founded a 200+ member university innovation community that has run a 300+ participant
+hackathon and hosted guest lectures on quantum computing for 100+ students.
 
-  <!-- AI / LLM / Research -->
+I don't just study AI — I build systems that turn research ideas into working software,
+then write up what I learned.
 
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM%20Systems-412991?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Federated%20Learning-FF6F00?style=for-the-badge" />
+<br/>
 
-  <!-- Data / Visualization -->
+## Currently Building
 
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<table>
+<tr>
+<td width="33%" valign="top">
 
-  <!-- Security -->
+**🧠 VYOM**
+AI classroom intelligence system using federated learning across student devices —
+real-time collaborative model updates without centralizing sensitive data. Validated
+in a live college dry run with 150+ students.
+[Working site →](https://vyomedu.in/)
 
-  <img src="https://img.shields.io/badge/Post--Quantum%20Cryptography-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cybersecurity-0F9D58?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Threat%20Modeling-8B0000?style=for-the-badge" />
+</td>
+<td width="33%" valign="top">
 
-</p>
+**⚡ KAIROS**
+An AI-native coding workspace — an editor combined with multi-provider LLM assistants
+and agent-style workflows for everyday development.
 
+</td>
+<td width="33%" valign="top">
 
----
+**🔒 BitVault**
+A security-focused file sharing system built around encrypted workflows and
+QR-based sharing links.
 
-### 📊 Projects
+</td>
+</tr>
+</table>
 
-#### 🔐 Karana — Post-Quantum Secure AI Surveillance System
+**Research, always in the background:** post-quantum cryptography, federated learning,
+transformer architectures for computer vision, and multi-model LLM orchestration.
 
-> IEEE-published multimodal AI surveillance system for autonomous threat detection.
+<br/>
 
-* Python, Computer Vision, Multimodal AI, CRYSTALS-Kyber PQC
-* Fuses visual, audio, and sensor streams for real-time threat classification
-* Integrated post-quantum cryptography for secure data pipelines and inter-node communication
-* Optimized model quantization for low-latency, edge-deployable inference
-* 📄 [IEEE Paper](https://ieeexplore.ieee.org/document/11385607)
+## Featured Projects
 
----
+<table>
+<tr>
+<td width="33%">
+<img src="assets/projects/vyom.svg" width="100%"/>
 
-#### 🤖 Sahay AI — Self-Healing Multi-Model AI Orchestration
+**VYOM** — AI Classroom Intelligence
+<br/>Privacy-preserving classroom intelligence with federated learning; validated
+with 150+ students in a live dry run.
 
-> Adaptive AI orchestration framework designed for intelligent multi-LLM routing and automatic failover.
+`Federated Learning` `Python` `Privacy-First`
 
-* Python, LLMs, Multi-Model Orchestration, LangChain
-* Dynamically routes requests across multiple AI models based on performance
-* Implements automatic model failover without retraining the routing layer
-* Designed to improve response quality and reduce latency compared with single-model systems
-* 🔬 Working Research Project
+[Working Site](https://vyomedu.in/) · [Repo →](https://github.com/Satyanderkaushik2004/vyom)
 
----
+</td>
+<td width="33%">
+<img src="assets/projects/kairos.svg" width="100%"/>
 
-#### 🚶 Multispectral Pedestrian Detection
+**KAIROS** — AI Coding Workspace
+<br/>An editor + multi-provider LLM assistant workspace with agent-mode workflows
+for real development work.
 
-> Computer vision research project for robust pedestrian detection across thermal and visual modalities.
+`React` `LLM Orchestration` `Agents`
 
-* PyTorch, Transformers, Computer Vision, Multispectral Datasets
-* Benchmarked ViT, Swin, DINO and AdaViT architectures against CNN baselines
-* Focused on improving pedestrian detection in low-light environments
-* Achieved approximately 12% mAP improvement over the CNN baseline using AdaViT
-* 🔬 Computer Vision Research
+[Repo →](https://github.com/Satyanderkaushik2004/kairos)
 
----
+</td>
+<td width="33%">
+<img src="assets/projects/bitvault.svg" width="100%"/>
 
-#### ⚛️ QTrialNet — Quantum Search Framework
+**BitVault** — Secure File Sharing
+<br/>Encrypted file-sharing workflows with QR-based sharing and security-first
+design.
 
-> Quantum-inspired framework for evaluating multiple hypotheses using a Grover-inspired search approach.
+`Security` `Encryption` `QR`
 
-* Python, Quantum Algorithms, Algorithm Design, Statistical Evaluation
-* Reformulated hypothesis evaluation as a quantum search problem
-* Theoretical complexity of O(√N/M) compared with O(N/M) classical search
-* Benchmarked classical simulation against Bayesian and frequentist approaches
-* 🔬 Algorithm Research
+[Repo →](https://github.com/Satyanderkaushik2004/bitvault)
 
----
+</td>
+</tr>
+</table>
 
-#### 🧠 NeuroMesh — AI-Driven Brain-to-Robot Interface
+> **Note:** KAIROS and BitVault repository links are placeholders — swap in the real
+> URLs once those repos are public (see `config.md`).
 
-> AI research project exploring neural-signal interpretation for modular robotic control.
+<br/>
 
-* Python, Machine Learning, EEG/EMG, Signal Processing
-* Built a non-invasive neural signal interpretation pipeline
-* Developed classification models for identifying motor-intention signals
-* Designed the system around raw EEG/EMG signal processing for robotic control
-* 🔬 Manuscript in Preparation
+## Research & Publications
 
----
+<table>
+<tr><td>
 
-#### 🌐 CollabCast — Unified Digital Collaboration Platform
+**[Published]** [**Karana: A Post-Quantum Secure AI Surveillance System for Autonomous Multimodal Threat Detection**](https://ieeexplore.ieee.org/document/11385607) — IEEE Conference, 2025
+Fused visual, audio, and sensor streams for real-time autonomous threat classification, secured with CRYSTALS-Kyber post-quantum cryptography and optimized for low-latency edge inference.
 
-> Real-time collaboration platform combining communication, task management and shared workspaces.
+**[Accepted]** **Threat Modeling and Attack Surface Analysis in AI-Driven IoT Systems** — Book Chapter, *Cybersecurity in the Age of AI and IoT*
 
-* WebSockets, Real-Time Systems, Role-Based Access Control
-* Unified communication, task management, resource sharing and workspace management
-* Designed event-driven real-time synchronization architecture
-* Implemented role-based access control for secure collaboration
-* Evaluated simulated workloads ranging from 10–200 users
-* 🔬 Research Project
+**[Under Review]** [**BLEED: A Stateless, Encrypted BLE Broadcast Protocol for Secure Communication**](https://drive.google.com/file/d/1G1ktDJAl8HO-dkc-XqfWgqnpGBxflckE/view?usp=sharing)
 
+**[Working Paper]** [**Sahay AI: A Self-Healing Adaptive Multi-Model AI Orchestration Framework**](https://drive.google.com/file/d/1cqkRIkDO_A1YfmMWn5VMNHWTlk_VXyy0/view?usp=sharing) — performance-aware dynamic routing across multiple LLMs with automatic failover.
 
----
+**[Working Paper]** [**QTrialNet: A Quantum Search Framework for Multi-Hypothesis Evaluation**](https://drive.google.com/file/d/1E-KlOw8FoDyPFEvMkEusi15hWv-39Oie/view?usp=sharing) — Grover-inspired quantum search achieving theoretical O(√N/M) complexity.
 
-### 📚 Education
+**[Working Paper]** [**CollabCast: Unified Digital Collaboration Platform**](https://drive.google.com/file/d/1FjV31-96MJ3p_46xyBdspr_ABKC6Utlu/view?usp=drive_link)
 
-* 🎓 **B.Tech — Artificial Intelligence & Data Science**
-  CGC University, Mohali | 2024–2027
-* 💻 **Diploma — Computer Science & Engineering**
-  Govt. Polytechnic, Panchkula | 2021–2023
+**[In Preparation]** [**NeuroMesh: AI-Driven Brain-to-Robot Interface**](https://drive.google.com/file/d/1F6fUWqj5LW7ePeqd2BAtaiiEjruTVa0R/view?usp=sharing) — non-invasive neural signal interpretation for modular robotic control.
 
-**Relevant Coursework:**
-Machine Learning • Deep Learning • Data Structures • Cloud Computing • Computer Vision • NLP
+</td></tr>
+</table>
 
----
+**Patents filed (India):**
+- A Quantum-Secure Edge-Based Multimodal AI Surveillance System — App. No. 202511074784
+- A Stateless Encrypted BLE Broadcast System — App. No. 202511087408
 
-### 🧪 Training & Professional Development
+<br/>
 
-* 🌐 **Networking Training** — Solitaire Infosys Pvt. Ltd. | 6 Weeks
-* 📊 **CompTIA Data+** — Summer Training
-* 🛡️ **CEH v13 Complete Series** — EC-Council | 2025
-* 💻 **Government Certified Programming** — C & C++
-* ☕ **Government Certified Programming** — Java & JavaScript
-* 🐍 **100 Days of Python Bootcamp**
-* 🐧 **Linux Bootcamp**
-* 🎨 **Graphic Design Certification**
+## Tech Stack
 
----
+<table>
+<tr><td valign="top" width="20%">
 
-### 🏆 Achievements & Recognition
+**Languages**
+<br/>
+![Python](https://img.shields.io/badge/-Python-05070B?style=flat-square&logo=python&logoColor=3B82F6)
+![C++](https://img.shields.io/badge/-C++-05070B?style=flat-square&logo=cplusplus&logoColor=8B5CF6)
+![Java](https://img.shields.io/badge/-Java-05070B?style=flat-square&logo=openjdk&logoColor=22D3EE)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05070B?style=flat-square&logo=javascript&logoColor=3B82F6)
 
-* 🔬 **IEEE-Published Undergraduate Researcher**
-* 📑 **5+ Research Projects / Papers** across AI, Computer Vision, Quantum Computing & Secure Systems
-* 💡 **2 Patent Applications Filed** in AI surveillance and secure communications
-* 📚 **6 Technical Books Self-Published** via Amazon KDP
-* 🚀 **Founder & Head — ICA Innovation Club**, CGC University
-* 👥 Built and scaled a university innovation community to **200+ active members**
-* 🏆 Led a **24-hour hackathon with 300+ participants**
-* 🎤 Invited as a **Guest Speaker** to teach 100+ students about AI & Quantum Computing
-* 📖 Accepted **research book chapter** on AI-driven IoT cybersecurity
+</td><td valign="top" width="20%">
 
----
+**AI / ML**
+<br/>
+![PyTorch](https://img.shields.io/badge/-PyTorch-05070B?style=flat-square&logo=pytorch&logoColor=8B5CF6)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05070B?style=flat-square&logo=tensorflow&logoColor=22D3EE)
+![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-05070B?style=flat-square&logo=huggingface&logoColor=3B82F6)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05070B?style=flat-square&logo=scikitlearn&logoColor=8B5CF6)
 
-### 🧠 Beyond Technical Skills
+</td><td valign="top" width="20%">
 
-* Leadership & Team Building
-* Technical Communication
-* Research & Problem Solving
-* Public Speaking
-* Event & Community Management
-* Creative Design
-* Strategic Thinking
-* Rapid Learning
+**Computer Vision / LLM**
+<br/>
+![OpenCV](https://img.shields.io/badge/-OpenCV-05070B?style=flat-square&logo=opencv&logoColor=22D3EE)
+![LangChain](https://img.shields.io/badge/-LangChain-05070B?style=flat-square&logo=langchain&logoColor=3B82F6)
+`ViT` `Swin` `DINO` `AdaViT`
 
----
+</td><td valign="top" width="20%">
 
-### 📫 Connect With Me
+**Data / Cloud**
+<br/>
+![Pandas](https://img.shields.io/badge/-Pandas-05070B?style=flat-square&logo=pandas&logoColor=8B5CF6)
+![AWS](https://img.shields.io/badge/-AWS-05070B?style=flat-square&logo=amazonaws&logoColor=22D3EE)
+![Firebase](https://img.shields.io/badge/-Firebase-05070B?style=flat-square&logo=firebase&logoColor=3B82F6)
+![Docker](https://img.shields.io/badge/-Docker-05070B?style=flat-square&logo=docker&logoColor=8B5CF6)
 
-<p align="center">
-  <a href="mailto:satyanderkaushik2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-satyanderkaushik2004%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/satyanderkaushik">
-    <img src="https://img.shields.io/badge/LinkedIn-Satyander%20Kaushik-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+</td><td valign="top" width="20%">
 
----
+**Security / Tools**
+<br/>
+![Linux](https://img.shields.io/badge/-Linux-05070B?style=flat-square&logo=linux&logoColor=22D3EE)
+![Git](https://img.shields.io/badge/-Git-05070B?style=flat-square&logo=git&logoColor=3B82F6)
+`Post-Quantum Crypto` `SIEM` `Threat Modeling`
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
+</td></tr>
+</table>
 
-<p align="center">
-  <i>"I build practical AI systems where research meets real-world impact."</i>
-</p>
+<br/>
+
+## GitHub Analytics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Satyanderkaushik2004&show_icons=true&theme=dark&bg_color=05070B&title_color=8B5CF6&icon_color=3B82F6&text_color=E5E7EB&border_color=1E293B&hide_border=false" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyanderkaushik2004&layout=compact&theme=dark&bg_color=05070B&title_color=8B5CF6&text_color=E5E7EB&border_color=1E293B&hide_border=false" width="35%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyanderkaushik2004&theme=dark&background=05070B&stroke=1E293B&ring=8B5CF6&fire=3B82F6&currStreakLabel=22D3EE&border=1E293B" width="70%" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Satyanderkaushik2004&theme=darkhub&no-frame=true&margin-w=8&column=7" width="90%" />
+</div>
+
+> Stats are generated live from GitHub — nothing here is hard-coded. Replace
+> `Satyanderkaushik2004` with your handle in every URL above if you fork this (see `config.md`).
+
+<br/>
+
+## Achievements
+
+<table>
+<tr>
+<td align="center" width="20%">🏆<br/><b>IEEE Publication</b><br/><sub>2025</sub></td>
+<td align="center" width="20%">📄<br/><b>5 Research Papers</b><br/><sub>published / in progress</sub></td>
+<td align="center" width="20%">📜<br/><b>2 Patents Filed</b><br/><sub>India</sub></td>
+<td align="center" width="20%">🚀<br/><b>Founder</b><br/><sub>ICA Innovation Club — 200+ members</sub></td>
+<td align="center" width="20%">🎤<br/><b>Guest Speaker</b><br/><sub>AI & quantum computing, 100+ students</sub></td>
+</tr>
+</table>
+
+Also: organized and served as event president for a **24-hour hackathon with 300+
+participants**, and self-published **6 technical books** (programming workbooks and
+research templates) via Amazon KDP.
+
+**Certifications:** EC-Council CEH v13 · CompTIA Data+ · Government-certified
+C/C++ and Java/JavaScript programming · 100 Days of Python · Linux Bootcamp
+
+<br/>
+
+## Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Satyanderkaushik2004/Satyanderkaushik2004/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Satyanderkaushik2004/Satyanderkaushik2004/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+> Generated automatically by `.github/workflows/snake.yml` on a daily schedule —
+> see **SETUP.md** to enable it after you push this repo.
+
+<br/>
+
+## Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-05070B?style=for-the-badge&logo=github&logoColor=8B5CF6)](https://github.com/Satyanderkaushik2004)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-05070B?style=for-the-badge&logo=linkedin&logoColor=3B82F6)](https://linkedin.com/in/satyanderkaushik)
+[![Email](https://img.shields.io/badge/Email-05070B?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:satyanderkaushik2004@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-05070B?style=for-the-badge&logo=vercel&logoColor=8B5CF6)](https://vyomedu.in/)
+
+*Open to collaboration · internships · research · cool ideas*
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="assets/backgrounds/mountain-night.jpg" width="100%" alt="Keep building"/>
+
+<br/><br/>
+
+**Build. Learn. Share. Grow.**
+
+</div>
