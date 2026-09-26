@@ -172,51 +172,59 @@ up what I learned.
 
 </div>
 <br/>
-## Currently Building
+## 🚀 Currently Building
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-![Active](https://img.shields.io/badge/ACTIVE-22C55E?style=flat-square&labelColor=05070B)
+<img src="assets/accent-green.svg" width="100%"/>
+
+![Active](https://img.shields.io/badge/ACTIVE-22C55E?style=for-the-badge&labelColor=05070B)
 
 ### 🧠 VYOM
-AI classroom intelligence — federated learning across student devices, real-time
-collaborative updates with no centralized data. Validated with **150+ students**
-in a live college dry run.
+AI classroom intelligence — federated learning across student devices, real-time collaborative updates with no centralized data. Validated with **150+ students** in a live college dry run.
 
-`Federated Learning` `Python` `Privacy-First`
+![Federated Learning](https://img.shields.io/badge/Federated_Learning-05070B?style=flat-square&color=8B5CF6)
+![Python](https://img.shields.io/badge/Python-05070B?style=flat-square&color=8B5CF6)
+![Privacy First](https://img.shields.io/badge/Privacy_First-05070B?style=flat-square&color=8B5CF6)
 
 **[Working site →](https://vyomedu.in/)**
 
 </td>
 <td width="33%" valign="top">
 
-![Building](https://img.shields.io/badge/BUILDING-3B82F6?style=flat-square&labelColor=05070B)
+<img src="assets/accent-blue.svg" width="100%"/>
+
+![Building](https://img.shields.io/badge/BUILDING-3B82F6?style=for-the-badge&labelColor=05070B)
 
 ### ⚡ KAIROS
-AI-native coding workspace — an editor combined with multi-provider LLM
-assistants and agent-style workflows for everyday development.
+AI-native coding workspace — an editor combined with multi-provider LLM assistants and agent-style workflows for everyday development.
 
-`React` `LLM Orchestration` `Agents`
+![React](https://img.shields.io/badge/React-05070B?style=flat-square&color=3B82F6)
+![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-05070B?style=flat-square&color=3B82F6)
+![Agents](https://img.shields.io/badge/Agents-05070B?style=flat-square&color=3B82F6)
 
 </td>
 <td width="33%" valign="top">
 
-![Building](https://img.shields.io/badge/BUILDING-3B82F6?style=flat-square&labelColor=05070B)
+<img src="assets/accent-purple.svg" width="100%"/>
+
+![Prototype](https://img.shields.io/badge/PROTOTYPE-8B5CF6?style=for-the-badge&labelColor=05070B)
 
 ### 🔒 BitVault
-Security-focused file sharing — encrypted workflows and QR-based sharing
-links, built with a security-first design.
+Security-focused file sharing — encrypted workflows and QR-based sharing links, built with a security-first design.
 
-`Security` `Encryption` `QR`
+![Security](https://img.shields.io/badge/Security-05070B?style=flat-square&color=22D3EE)
+![Encryption](https://img.shields.io/badge/Encryption-05070B?style=flat-square&color=22D3EE)
+![QR](https://img.shields.io/badge/QR-05070B?style=flat-square&color=22D3EE)
 
 </td>
 </tr>
 </table>
 
-**Research, always in the background:** post-quantum cryptography, federated learning,
-transformer architectures for computer vision, and multi-model LLM orchestration.
+**Research, always in the background:** post-quantum cryptography, federated learning, transformer architectures for computer vision, and multi-model LLM orchestration.
+
 
 <br/>
 
