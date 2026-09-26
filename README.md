@@ -326,25 +326,16 @@ Security-focused file sharing — encrypted workflows and QR-based sharing links
 
 <br/>
 
-## Achievements
+## 🏅 Achievements & Recognition
 
-<table>
-<tr>
-<td align="center" width="20%">🏆<br/><b>IEEE Publication</b><br/><sub>2025</sub></td>
-<td align="center" width="20%">📄<br/><b>5 Research Papers</b><br/><sub>published / in progress</sub></td>
-<td align="center" width="20%">📜<br/><b>2 Patents Filed</b><br/><sub>India</sub></td>
-<td align="center" width="20%">🚀<br/><b>Founder</b><br/><sub>ICA Innovation Club — 200+ members</sub></td>
-<td align="center" width="20%">🎤<br/><b>Guest Speaker</b><br/><sub>AI & quantum computing, 100+ students</sub></td>
-</tr>
-</table>
+| | |
+|:---|:---|
+| 🚀 **Founder — ICA Innovation Club** | Grew and leads a 200+ member university innovation community |
+| 🎤 **Guest Speaker** | AI & quantum computing sessions for 100+ students |
+| 🏆 **Event President** | Ran a 24-hour hackathon with 300+ participants |
+| 📚 **Self-Published Author** | 6 technical books (programming workbooks & research templates) via Amazon KDP |
 
-Also: organized and served as event president for a **24-hour hackathon with 300+
-participants**, and self-published **6 technical books** (programming workbooks and
-research templates) via Amazon KDP.
-
-**Certifications:** EC-Council CEH v13 · CompTIA Data+ · Government-certified
-C/C++ and Java/JavaScript programming · 100 Days of Python · Linux Bootcamp
-
+**Certifications:** EC-Council CEH v13 · CompTIA Data+ · Government-certified C/C++ and Java/JavaScript programming · 100 Days of Python · Linux Bootcamp
 <br/>
 
 ## Let's Connect
