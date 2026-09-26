@@ -228,42 +228,48 @@ Security-focused file sharing — encrypted workflows and QR-based sharing links
 
 <br/>
 
-## Featured Projects
+## 💼 Featured Projects
 
 <table>
 <tr>
 <td width="33%">
 <img src="assets/projects/vyom.svg" width="100%"/>
+<img src="assets/accent-green.svg" width="100%"/>
 
 **VYOM** — AI Classroom Intelligence
-<br/>Privacy-preserving classroom intelligence with federated learning; validated
-with 150+ students in a live dry run.
+<br/>Privacy-preserving classroom intelligence with federated learning; validated with 150+ students in a live dry run.
 
-`Federated Learning` `Python` `Privacy-First`
+![Federated Learning](https://img.shields.io/badge/Federated_Learning-05070B?style=flat-square&color=22C55E)
+![Python](https://img.shields.io/badge/Python-05070B?style=flat-square&color=22C55E)
+![Privacy First](https://img.shields.io/badge/Privacy_First-05070B?style=flat-square&color=22C55E)
 
 [Working Site](https://vyomedu.in/) · [Repo →](https://github.com/Satyanderkaushik2004/vyom)
 
 </td>
 <td width="33%">
 <img src="assets/projects/kairos.svg" width="100%"/>
+<img src="assets/accent-blue.svg" width="100%"/>
 
 **KAIROS** — AI Coding Workspace
-<br/>An editor + multi-provider LLM assistant workspace with agent-mode workflows
-for real development work.
+<br/>An editor + multi-provider LLM assistant workspace with agent-mode workflows for real development work.
 
-`React` `LLM Orchestration` `Agents`
+![React](https://img.shields.io/badge/React-05070B?style=flat-square&color=3B82F6)
+![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-05070B?style=flat-square&color=3B82F6)
+![Agents](https://img.shields.io/badge/Agents-05070B?style=flat-square&color=3B82F6)
 
 [Repo →](https://github.com/Satyanderkaushik2004/kairos)
 
 </td>
 <td width="33%">
 <img src="assets/projects/bitvault.svg" width="100%"/>
+<img src="assets/accent-purple.svg" width="100%"/>
 
 **BitVault** — Secure File Sharing
-<br/>Encrypted file-sharing workflows with QR-based sharing and security-first
-design.
+<br/>Encrypted file-sharing workflows with QR-based sharing and security-first design.
 
-`Security` `Encryption` `QR`
+![Security](https://img.shields.io/badge/Security-05070B?style=flat-square&color=8B5CF6)
+![Encryption](https://img.shields.io/badge/Encryption-05070B?style=flat-square&color=8B5CF6)
+![QR](https://img.shields.io/badge/QR-05070B?style=flat-square&color=8B5CF6)
 
 [Repo →](https://github.com/Satyanderkaushik2004/bitvault)
 
