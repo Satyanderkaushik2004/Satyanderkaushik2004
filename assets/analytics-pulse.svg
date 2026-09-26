@@ -39,6 +39,4 @@
     <animateMotion dur="4s" repeatCount="indefinite" path="M20,145 L680,145"/>
     <animate attributeName="opacity" values="1;0.3;1" dur="1s" repeatCount="indefinite"/>
   </circle>
-
-  <text x="40" y="25" fill="#94A3B8" font-family="monospace" font-size="14">contributions.stream()</text>
 </svg>
