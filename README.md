@@ -255,8 +255,6 @@ design.
 </tr>
 </table>
 
-> **Note:** KAIROS and BitVault repository links are placeholders — swap in the real
-> URLs once those repos are public (see `config.md`).
 
 <br/>
 
