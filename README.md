@@ -24,7 +24,7 @@
 <td width="30%" valign="top">
 
 <div align="center">
-<img src="https://github.com/Satyanderkaushik2004.png" width="140" style="border-radius:50%" alt="Satyander Kaushik"/>
+<img src="https://images.weserv.nl/?url=github.com/Satyanderkaushik2004.png&h=280&w=280&fit=cover&mask=circle&maxage=7d" width="150" alt="Satyander Kaushik"/>
 
 ### SATYANDER KAUSHIK
 **@Satyanderkaushik2004**
@@ -43,6 +43,14 @@ Founder — ICA Innovation Club
 [![GitHub](https://img.shields.io/badge/GitHub-05070B?style=for-the-badge&logo=github&logoColor=8B5CF6)](https://github.com/Satyanderkaushik2004)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-05070B?style=for-the-badge&logo=linkedin&logoColor=3B82F6)](https://linkedin.com/in/satyanderkaushik)
 [![Portfolio](https://img.shields.io/badge/Portfolio-05070B?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://vyomedu.in/)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=280&lines=Building+VYOM+%E2%80%94+AI+for+classrooms;Shipping+at+2+AM;Build.+Learn.+Share.+Repeat." alt="typing"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Satyanderkaushik2004&label=Profile+Views&color=8B5CF6&style=flat" alt="views"/>
 
 </div>
 
@@ -76,14 +84,14 @@ class SatyanderKaushik:
         return "shipping, writing papers, or both at 2 AM."
 ```
 
-<br/>
-
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,fastapi,react,js,cpp,git,docker,linux,postgres&theme=dark" alt="tech stack"/>
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="coding animation"/>
+<img src="assets/heartbeat-green.svg" width="100%" alt="status: alive and shipping"/>
+
 </div>
 
 </td>
