@@ -57,32 +57,12 @@ Founder — ICA Innovation Club
 </td>
 <td width="70%" valign="top">
 
-```python
-class SatyanderKaushik:
+<img src="assets/code-editor-typing.svg" width="100%" alt="class SatyanderKaushik — typing animation"/>
 
-    name        = "Satyander Kaushik"
-    field       = "AI & Data Science"
-    university  = "CGC University, Mohali"
-    roles       = ["Builder", "Researcher", "Community Leader"]
+<br/>
 
-    currently_building = [
-        "VYOM",     # AI classroom intelligence — federated learning
-        "KAIROS",   # AI coding workspace
-        "BitVault", # secure, encrypted file sharing
-    ]
 
-    published = [
-        "Karana — Post-Quantum Secure AI Surveillance System (IEEE, 2025)",
-    ]
-
-    patents_filed = 2       # AI surveillance · secure BLE communication
-    community_led = "200+ member university innovation club"
-
-    philosophy = "Build. Learn. Share. Repeat."
-
-    def today(self):
-        return "shipping, writing papers, or both at 2 AM."
-```
+<br/><br/>
 
 <div align="center">
 
@@ -91,6 +71,8 @@ class SatyanderKaushik:
 <br/><br/>
 
 <img src="assets/heartbeat-green.svg" width="100%" alt="status: alive and shipping"/>
+
+</div>
 
 </div>
 
