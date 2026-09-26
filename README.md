@@ -93,6 +93,59 @@ hackathon and hosted guest lectures on quantum computing for 100+ students.
 I don't just study AI — I build systems that turn research ideas into working software,
 then write up what I learned.
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/IEEE%20Publication-1-8B5CF6?style=for-the-badge&labelColor=05070B"/>
+<img src="https://img.shields.io/badge/Research%20Papers-6-3B82F6?style=for-the-badge&labelColor=05070B"/>
+<img src="https://img.shields.io/badge/Patents%20Filed-2-22D3EE?style=for-the-badge&labelColor=05070B"/>
+<img src="https://img.shields.io/badge/Community%20Led-200%2B-3B82F6?style=for-the-badge&labelColor=05070B"/>
+<img src="https://img.shields.io/badge/Hackathon%20Run-300%2B%20Participants-8B5CF6?style=for-the-badge&labelColor=05070B"/>
+
+</div>
+
+<br/>
+
+## Tech Stack
+
+<div align="center">
+
+**Core Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js" alt="Python, C++, Java, JavaScript"/>
+
+<br/>
+
+**AI · Machine Learning · Computer Vision**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="PyTorch, TensorFlow, OpenCV"/>
+<br/>
+
+![LangChain](https://img.shields.io/badge/LangChain-05070B?style=flat-square&color=8B5CF6)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-05070B?style=flat-square&color=3B82F6)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-05070B?style=flat-square&color=22D3EE)
+![ViT](https://img.shields.io/badge/ViT-05070B?style=flat-square&color=8B5CF6)
+![Swin](https://img.shields.io/badge/Swin-05070B?style=flat-square&color=3B82F6)
+![DINO](https://img.shields.io/badge/DINO-05070B?style=flat-square&color=22D3EE)
+![AdaViT](https://img.shields.io/badge/AdaViT-05070B?style=flat-square&color=8B5CF6)
+
+<br/>
+
+**Cloud · MLOps · Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,firebase,docker,linux,git,github" alt="AWS, Firebase, Docker, Linux, Git, GitHub"/>
+
+<br/>
+
+**Security · Systems Research**
+<br/>
+![Post-Quantum Crypto](https://img.shields.io/badge/Post--Quantum%20Cryptography-05070B?style=flat-square&color=3B82F6)
+![SIEM](https://img.shields.io/badge/SIEM-05070B?style=flat-square&color=8B5CF6)
+![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-05070B?style=flat-square&color=22D3EE)
+![IoT Security](https://img.shields.io/badge/IoT%20Security-05070B?style=flat-square&color=3B82F6)
+![Federated Learning](https://img.shields.io/badge/Federated%20Learning-05070B?style=flat-square&color=8B5CF6)
+
+</div>
+
 <br/>
 
 ## Currently Building
@@ -101,25 +154,38 @@ then write up what I learned.
 <tr>
 <td width="33%" valign="top">
 
-**🧠 VYOM**
-AI classroom intelligence system using federated learning across student devices —
-real-time collaborative model updates without centralizing sensitive data. Validated
-in a live college dry run with 150+ students.
-[Working site →](https://vyomedu.in/)
+![Active](https://img.shields.io/badge/ACTIVE-22C55E?style=flat-square&labelColor=05070B)
+
+### 🧠 VYOM
+AI classroom intelligence — federated learning across student devices, real-time
+collaborative updates with no centralized data. Validated with **150+ students**
+in a live college dry run.
+
+`Federated Learning` `Python` `Privacy-First`
+
+**[Working site →](https://vyomedu.in/)**
 
 </td>
 <td width="33%" valign="top">
 
-**⚡ KAIROS**
-An AI-native coding workspace — an editor combined with multi-provider LLM assistants
-and agent-style workflows for everyday development.
+![Building](https://img.shields.io/badge/BUILDING-3B82F6?style=flat-square&labelColor=05070B)
+
+### ⚡ KAIROS
+AI-native coding workspace — an editor combined with multi-provider LLM
+assistants and agent-style workflows for everyday development.
+
+`React` `LLM Orchestration` `Agents`
 
 </td>
 <td width="33%" valign="top">
 
-**🔒 BitVault**
-A security-focused file sharing system built around encrypted workflows and
-QR-based sharing links.
+![Building](https://img.shields.io/badge/BUILDING-3B82F6?style=flat-square&labelColor=05070B)
+
+### 🔒 BitVault
+Security-focused file sharing — encrypted workflows and QR-based sharing
+links, built with a security-first design.
+
+`Security` `Encryption` `QR`
 
 </td>
 </tr>
@@ -180,84 +246,28 @@ design.
 
 ## Research & Publications
 
-<table>
-<tr><td>
+| Status | Work | Venue |
+|:---|:---|:---|
+| ![Published](https://img.shields.io/badge/PUBLISHED-22C55E?style=flat-square&labelColor=05070B) | [**Karana** — Post-Quantum Secure AI Surveillance System for Autonomous Multimodal Threat Detection](https://ieeexplore.ieee.org/document/11385607) | IEEE Conference, 2025 |
+| ![Accepted](https://img.shields.io/badge/ACCEPTED-8B5CF6?style=flat-square&labelColor=05070B) | **Threat Modeling and Attack Surface Analysis in AI-Driven IoT Systems** | Book Chapter — *Cybersecurity in the Age of AI and IoT* |
+| ![Under Review](https://img.shields.io/badge/UNDER%20REVIEW-F59E0B?style=flat-square&labelColor=05070B) | [**BLEED** — A Stateless, Encrypted BLE Broadcast Protocol for Secure Communication](https://drive.google.com/file/d/1G1ktDJAl8HO-dkc-XqfWgqnpGBxflckE/view?usp=sharing) | — |
+| ![Working Paper](https://img.shields.io/badge/WORKING%20PAPER-3B82F6?style=flat-square&labelColor=05070B) | [**Sahay AI** — Self-Healing Adaptive Multi-Model AI Orchestration Framework](https://drive.google.com/file/d/1cqkRIkDO_A1YfmMWn5VMNHWTlk_VXyy0/view?usp=sharing) | — |
+| ![Working Paper](https://img.shields.io/badge/WORKING%20PAPER-3B82F6?style=flat-square&labelColor=05070B) | [**QTrialNet** — Quantum Search Framework for Multi-Hypothesis Evaluation](https://drive.google.com/file/d/1E-KlOw8FoDyPFEvMkEusi15hWv-39Oie/view?usp=sharing) | — |
+| ![Working Paper](https://img.shields.io/badge/WORKING%20PAPER-3B82F6?style=flat-square&labelColor=05070B) | [**CollabCast** — Unified Digital Collaboration Platform](https://drive.google.com/file/d/1FjV31-96MJ3p_46xyBdspr_ABKC6Utlu/view?usp=drive_link) | — |
+| ![In Prep](https://img.shields.io/badge/IN%20PREP-64748B?style=flat-square&labelColor=05070B) | [**NeuroMesh** — AI-Driven Brain-to-Robot Interface](https://drive.google.com/file/d/1F6fUWqj5LW7ePeqd2BAtaiiEjruTVa0R/view?usp=sharing) | — |
 
-**[Published]** [**Karana: A Post-Quantum Secure AI Surveillance System for Autonomous Multimodal Threat Detection**](https://ieeexplore.ieee.org/document/11385607) — IEEE Conference, 2025
-Fused visual, audio, and sensor streams for real-time autonomous threat classification, secured with CRYSTALS-Kyber post-quantum cryptography and optimized for low-latency edge inference.
-
-**[Accepted]** **Threat Modeling and Attack Surface Analysis in AI-Driven IoT Systems** — Book Chapter, *Cybersecurity in the Age of AI and IoT*
-
-**[Under Review]** [**BLEED: A Stateless, Encrypted BLE Broadcast Protocol for Secure Communication**](https://drive.google.com/file/d/1G1ktDJAl8HO-dkc-XqfWgqnpGBxflckE/view?usp=sharing)
-
-**[Working Paper]** [**Sahay AI: A Self-Healing Adaptive Multi-Model AI Orchestration Framework**](https://drive.google.com/file/d/1cqkRIkDO_A1YfmMWn5VMNHWTlk_VXyy0/view?usp=sharing) — performance-aware dynamic routing across multiple LLMs with automatic failover.
-
-**[Working Paper]** [**QTrialNet: A Quantum Search Framework for Multi-Hypothesis Evaluation**](https://drive.google.com/file/d/1E-KlOw8FoDyPFEvMkEusi15hWv-39Oie/view?usp=sharing) — Grover-inspired quantum search achieving theoretical O(√N/M) complexity.
-
-**[Working Paper]** [**CollabCast: Unified Digital Collaboration Platform**](https://drive.google.com/file/d/1FjV31-96MJ3p_46xyBdspr_ABKC6Utlu/view?usp=drive_link)
-
-**[In Preparation]** [**NeuroMesh: AI-Driven Brain-to-Robot Interface**](https://drive.google.com/file/d/1F6fUWqj5LW7ePeqd2BAtaiiEjruTVa0R/view?usp=sharing) — non-invasive neural signal interpretation for modular robotic control.
-
-</td></tr>
-</table>
+**Karana** fuses visual, audio, and sensor streams for real-time autonomous threat
+classification, secured with CRYSTALS-Kyber post-quantum cryptography and optimized
+for low-latency edge inference. **Sahay AI** performs performance-aware dynamic
+routing across multiple LLMs with automatic failover. **QTrialNet** reformulates
+hypothesis evaluation as a Grover-inspired quantum search, achieving theoretical
+O(√N/M) complexity.
 
 **Patents filed (India):**
 - A Quantum-Secure Edge-Based Multimodal AI Surveillance System — App. No. 202511074784
 - A Stateless Encrypted BLE Broadcast System — App. No. 202511087408
 
 <br/>
-
-## Tech Stack
-
-<table>
-<tr><td valign="top" width="20%">
-
-**Languages**
-<br/>
-![Python](https://img.shields.io/badge/-Python-05070B?style=flat-square&logo=python&logoColor=3B82F6)
-![C++](https://img.shields.io/badge/-C++-05070B?style=flat-square&logo=cplusplus&logoColor=8B5CF6)
-![Java](https://img.shields.io/badge/-Java-05070B?style=flat-square&logo=openjdk&logoColor=22D3EE)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05070B?style=flat-square&logo=javascript&logoColor=3B82F6)
-
-</td><td valign="top" width="20%">
-
-**AI / ML**
-<br/>
-![PyTorch](https://img.shields.io/badge/-PyTorch-05070B?style=flat-square&logo=pytorch&logoColor=8B5CF6)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05070B?style=flat-square&logo=tensorflow&logoColor=22D3EE)
-![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-05070B?style=flat-square&logo=huggingface&logoColor=3B82F6)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05070B?style=flat-square&logo=scikitlearn&logoColor=8B5CF6)
-
-</td><td valign="top" width="20%">
-
-**Computer Vision / LLM**
-<br/>
-![OpenCV](https://img.shields.io/badge/-OpenCV-05070B?style=flat-square&logo=opencv&logoColor=22D3EE)
-![LangChain](https://img.shields.io/badge/-LangChain-05070B?style=flat-square&logo=langchain&logoColor=3B82F6)
-`ViT` `Swin` `DINO` `AdaViT`
-
-</td><td valign="top" width="20%">
-
-**Data / Cloud**
-<br/>
-![Pandas](https://img.shields.io/badge/-Pandas-05070B?style=flat-square&logo=pandas&logoColor=8B5CF6)
-![AWS](https://img.shields.io/badge/-AWS-05070B?style=flat-square&logo=amazonaws&logoColor=22D3EE)
-![Firebase](https://img.shields.io/badge/-Firebase-05070B?style=flat-square&logo=firebase&logoColor=3B82F6)
-![Docker](https://img.shields.io/badge/-Docker-05070B?style=flat-square&logo=docker&logoColor=8B5CF6)
-
-</td><td valign="top" width="20%">
-
-**Security / Tools**
-<br/>
-![Linux](https://img.shields.io/badge/-Linux-05070B?style=flat-square&logo=linux&logoColor=22D3EE)
-![Git](https://img.shields.io/badge/-Git-05070B?style=flat-square&logo=git&logoColor=3B82F6)
-`Post-Quantum Crypto` `SIEM` `Threat Modeling`
-
-</td></tr>
-</table>
-
-<br/>
-
 ## GitHub Analytics
 
 <div align="center">
