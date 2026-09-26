@@ -86,30 +86,28 @@ class SatyanderKaushik:
   <img alt="github contribution snake animation" width="100%" src="https://raw.githubusercontent.com/Satyanderkaushik2004/Satyanderkaushik2004/output/github-contribution-grid-snake.svg">
 </picture>
 <br/>
-<sub>Contribution snake · generated daily by <code>.github/workflows/snake.yml</code> — see <b>SETUP.md</b> to enable it</sub>
+
 </div>
 
 <br/>
 
 ## About Me
-
+ 
 <table>
 <tr>
 <td width="60%" valign="top">
-
 I build at the intersection of **multimodal AI, computer vision, LLM systems, and
 secure AI research** — an AI & Data Science undergraduate at CGC University, Mohali.
-
+ 
 I'm an IEEE-published researcher with two patent applications filed in India, and I
 founded a 200+ member university innovation community that has run a 300+ participant
 hackathon and hosted guest lectures on quantum computing for 100+ students.
-
+ 
 > I don't just study AI — I build systems that turn research ideas into working
 > software, then write up what I learned.
-
+ 
 </td>
 <td width="40%" valign="top">
-
 <table>
 <tr>
 <td align="center" width="50%">🏆<br/><b>1</b><br/><sub>IEEE Publication</sub></td>
@@ -120,13 +118,52 @@ hackathon and hosted guest lectures on quantum computing for 100+ students.
 <td align="center" width="50%">👥<br/><b>200+</b><br/><sub>Community Led</sub></td>
 </tr>
 </table>
-
 </td>
 </tr>
 </table>
+<br/>
+
+## Tech Stack
+
+<div align="center">
+
+**Core Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js" alt="Python, C++, Java, JavaScript"/>
 
 <br/>
 
+**AI · Machine Learning · Computer Vision**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="PyTorch, TensorFlow, OpenCV"/>
+<br/>
+
+![LangChain](https://img.shields.io/badge/LangChain-05070B?style=flat-square&color=8B5CF6)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-05070B?style=flat-square&color=3B82F6)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-05070B?style=flat-square&color=22D3EE)
+![ViT](https://img.shields.io/badge/ViT-05070B?style=flat-square&color=8B5CF6)
+![Swin](https://img.shields.io/badge/Swin-05070B?style=flat-square&color=3B82F6)
+![DINO](https://img.shields.io/badge/DINO-05070B?style=flat-square&color=22D3EE)
+![AdaViT](https://img.shields.io/badge/AdaViT-05070B?style=flat-square&color=8B5CF6)
+
+<br/>
+
+**Cloud · MLOps · Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,firebase,docker,linux,git,github" alt="AWS, Firebase, Docker, Linux, Git, GitHub"/>
+
+<br/>
+
+**Security · Systems Research**
+<br/>
+![Post-Quantum Crypto](https://img.shields.io/badge/Post--Quantum%20Cryptography-05070B?style=flat-square&color=3B82F6)
+![SIEM](https://img.shields.io/badge/SIEM-05070B?style=flat-square&color=8B5CF6)
+![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-05070B?style=flat-square&color=22D3EE)
+![IoT Security](https://img.shields.io/badge/IoT%20Security-05070B?style=flat-square&color=3B82F6)
+![Federated Learning](https://img.shields.io/badge/Federated%20Learning-05070B?style=flat-square&color=8B5CF6)
+
+</div>
+<br/>
 ## Currently Building
 
 <table>
@@ -248,72 +285,23 @@ O(√N/M) complexity.
 
 <br/>
 
-## Tech Stack
 
-<div align="center">
-
-**Core Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js" alt="Python, C++, Java, JavaScript"/>
-
-<br/>
-
-**AI · Machine Learning · Computer Vision**
-<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="PyTorch, TensorFlow, OpenCV"/>
-<br/>
-
-![LangChain](https://img.shields.io/badge/LangChain-05070B?style=flat-square&color=8B5CF6)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-05070B?style=flat-square&color=3B82F6)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-05070B?style=flat-square&color=22D3EE)
-![ViT](https://img.shields.io/badge/ViT-05070B?style=flat-square&color=8B5CF6)
-![Swin](https://img.shields.io/badge/Swin-05070B?style=flat-square&color=3B82F6)
-![DINO](https://img.shields.io/badge/DINO-05070B?style=flat-square&color=22D3EE)
-![AdaViT](https://img.shields.io/badge/AdaViT-05070B?style=flat-square&color=8B5CF6)
-
-<br/>
-
-**Cloud · MLOps · Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,firebase,docker,linux,git,github" alt="AWS, Firebase, Docker, Linux, Git, GitHub"/>
-
-<br/>
-
-**Security · Systems Research**
-<br/>
-![Post-Quantum Crypto](https://img.shields.io/badge/Post--Quantum%20Cryptography-05070B?style=flat-square&color=3B82F6)
-![SIEM](https://img.shields.io/badge/SIEM-05070B?style=flat-square&color=8B5CF6)
-![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-05070B?style=flat-square&color=22D3EE)
-![IoT Security](https://img.shields.io/badge/IoT%20Security-05070B?style=flat-square&color=3B82F6)
-![Federated Learning](https://img.shields.io/badge/Federated%20Learning-05070B?style=flat-square&color=8B5CF6)
-
-</div>
 
 <br/>
 
 ## GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats-6qbrm7jrr-krish-691f.vercel.app/api?username=Satyanderkaushik2004&show_icons=true&theme=dark&bg_color=05070B&title_color=8B5CF6&icon_color=3B82F6&text_color=E5E7EB&border_color=1E293B&hide_border=false&cache_seconds=86400" width="49%" />
-<img src="https://github-readme-stats-6qbrm7jrr-krish-691f.vercel.app/api/top-langs/?username=Satyanderkaushik2004&layout=compact&theme=dark&bg_color=05070B&title_color=8B5CF6&text_color=E5E7EB&border_color=1E293B&hide_border=false&cache_seconds=86400" width="35%" />
 
-<br/>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyanderkaushik2004&theme=dark&background=05070B&stroke=1E293B&ring=8B5CF6&fire=3B82F6&currStreakLabel=22D3EE&border=1E293B" width="70%" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Satyanderkaushik2004&theme=darkhub&no-frame=true&margin-w=8&column=7" width="90%" />
 </div>
 
-> Stats are generated live from GitHub — nothing here is hard-coded. Replace
-> `Satyanderkaushik2004` with your handle in every URL above if you fork this (see `config.md`).
->
-> The stats and top-languages cards are now served from a **self-hosted copy**
-> (`github-readme-stats-6qbrm7jrr-krish-691f.vercel.app`), so they run on your
-> own GitHub API quota instead of the shared public demo. The trophy card
-> still uses the shared public server — if it shows a broken image, see
-> **SETUP.md** to self-host that one too.
+
 
 <br/>
 
