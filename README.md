@@ -76,6 +76,16 @@ class SatyanderKaushik:
         return "shipping, writing papers, or both at 2 AM."
 ```
 
+<br/>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,js,cpp,git,docker,linux,postgres&theme=dark" alt="tech stack"/>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="coding animation"/>
+</div>
+
 </td>
 </tr>
 </table>
