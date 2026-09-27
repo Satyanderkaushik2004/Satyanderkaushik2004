@@ -19,7 +19,11 @@
 <i>"Turning ideas into real-world impact."</i>
 </div>
 <div align="center">
- <img src="./assets/analytics-pulse.svg" width="60%" />
+<p align="center">
+  <img src="./assets/Masked_Vigilante.gif" width="48%" />
+  <img src="./assets/analytics-pulse.svg" width="48%" />
+  
+</p>
 </div>
 <table>
 <tr>
