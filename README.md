@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./assets/colorful.gif" width="100%" />
+<img src="./assets/colorful.gif" width="48%" />
 
 <br/>
 
