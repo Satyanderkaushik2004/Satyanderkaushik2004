@@ -21,7 +21,7 @@
 <div align="center">
 <p align="center">
   <img src="./assets/Masked_Vigilante.gif" width="48%" />
-  <img src="./assets/analytics-pulse.svg" width="48%" />
+  <img src="./assets/weather.gif" width="48%" />
   
 </p>
 </div>
