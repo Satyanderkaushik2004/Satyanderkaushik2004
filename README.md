@@ -22,7 +22,6 @@
 <p align="center">
   <img src="./assets/Colorful.gif" width="48%" />
   <img src="./assets/weather.gif" width="48%" />
-  <img src="./assets/analytics-pulse.svg" width="60%" />
   
 </p>
 </div>
