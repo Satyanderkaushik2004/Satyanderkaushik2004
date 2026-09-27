@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/hero/hero.jpg" width="100%" alt="Satyander Kaushik — workspace"/>
+<img src="./assets/colorful.gif" width="100%" />
 
 <br/>
 
