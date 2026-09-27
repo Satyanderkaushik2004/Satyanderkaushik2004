@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./assets/Colorful.gif" width="100%" />
+
 
 <br/>
 
@@ -20,7 +20,7 @@
 </div>
 <div align="center">
 <p align="center">
-  <img src="./assets/Masked_Vigilante.gif" width="48%" />
+  <img src="./assets/Colorful.gif" width="48%" />
   <img src="./assets/weather.gif" width="48%" />
   
 </p>
