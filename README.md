@@ -262,7 +262,7 @@ Security-focused file sharing — encrypted workflows and QR-based sharing links
 </table>
 
 <div align="center">
-  <img src="assets/Masked_Vigilante.gif" width="600" alt="Masked Vigilante Demo"/>
+  <img src="assets/Masked_Vigilante.gif" width="800" alt="Masked Vigilante Demo"/>
 </div>
 <br/>
 
